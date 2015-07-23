@@ -3,7 +3,7 @@
 #include <QApplication>
 
 
-int displayBoard[9]; // = {X, O, X, O, X, O, X, O, X};
+int displayBoard[9];
 CurrentPly currentPly;
 Board board;
 Ai ai;
