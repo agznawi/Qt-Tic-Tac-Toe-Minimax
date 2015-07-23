@@ -1,5 +1,5 @@
 # Qt5-TicTacToe-Minimaxa
-Tic Tac Toe game player vs computer, the games uses minimax algorithm (negamax branch) for full tree search
+Tic Tac Toe game player vs computer, the games uses minimax algorithm (negamax branch) for full tree search.</br>
 It's written with Qt 5
 
 This is my first project I ever did using Qt, I'm still lerning this "cute" liberary.
