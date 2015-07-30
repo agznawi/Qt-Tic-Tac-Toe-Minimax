@@ -1,9 +1,6 @@
 #include "Board.h"
 #include "Globals.h"
 
-#include <iostream>
-using namespace std;
-
 
 void Board::Init()
 {
